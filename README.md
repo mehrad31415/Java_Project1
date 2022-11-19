@@ -1,8 +1,6 @@
 # Java--Project1
 
-### This was the first project of the java course.
-
-#### Write a Java program that:
+#### A Java program that:
 
 1. Presents a menu of choices to the user.
 2. The first menu choice allows the user to enter the characters filling a 3 by 3 character array.
