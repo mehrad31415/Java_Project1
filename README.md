@@ -20,3 +20,6 @@ a. An anagram is a rearrangement of the characters in a word and the rearrangeme
 also a legal word.
 7. The final menu choice should allow the user to quit the program.
 8. Aside from the final menu choice, each other menu choice should invoke a method.
+
+Further works on this project can be to create a game of scramble words where the user is allowed to change the location of two adjacent words.
+The goal will be to end in one state where the board consists of an anagram. (obviously the board should require at least one solution)
