@@ -1,6 +1,5 @@
 # Java--Project1
 
-## SCICOMP102 Introduction to Computer Science Project 1 (individual, 10%)
 ### This was the first project of the java course.
 
 #### Write a Java program that:
